@@ -4,7 +4,7 @@ This repository contains examples of various types of code  that is frequesntly 
 ## First time (do this only the first time).
 
 * Bring up a terminal window
-* Go to the directory where you would like your code examples for this class to go (if you want it atin your home directory, then * skip this step)
+* Go to the directory where you would like your code examples for this class to go (if you want it atin your home directory, then  skip this step)
 * type: git clone https://github.com/kgoebber/met330_examples.git
 * This will create a directory called met330_examples in your current directory. Go into that for code updates
 
